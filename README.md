@@ -3,3 +3,4 @@
 
 Here's one of the Nashville Graphs:
 ![Alt Text](https://github.com/danielhong3/comparing-baltimore-nashville-child-staying-rate-and-income/blob/master/NashvilleIncomeStayEmployment.JPG)
+![Alt Text](https://github.com/danielhong3/comparing-baltimore-nashville-child-staying-rate-and-income/blob/master/BaltimoreStayEmployment.JPG)
