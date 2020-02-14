@@ -10,3 +10,7 @@ Here's a Baltimore one with the same parameters for comparison
 Comparing the average income of children born to parents of the lowest quintile in Nashville and Baltimore
 ![Alt Text](https://github.com/danielhong3/comparing-baltimore-nashville-child-staying-rate-and-income/blob/master/NashvilleIncome.JPG)
 ![Alt Text](https://github.com/danielhong3/comparing-baltimore-nashville-child-staying-rate-and-income/blob/master/BaltimoreIncome.JPG)
+
+Conclusion:
+For both regions, employment coorelated directly with the retention of the population. Nashville's lower quintile income was significantly higher than Baltimore's on average.
+Data: https://github.com/danielhong3/comparing-baltimore-nashville-child-staying-rate-and-income/blob/master/BusinessMini_Project1.xlsx
