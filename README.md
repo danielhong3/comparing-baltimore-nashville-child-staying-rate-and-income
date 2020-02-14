@@ -2,5 +2,6 @@
 #Data was taken from https://www.opportunityatlas.org/
 
 Here's one of the Nashville Graphs:
-![Alt Text](https://github.com/danielhong3/comparing-baltimore-nashville-child-staying-rate-and-income/blob/master/NashvilleIncomeStayEmployment.JPG)
+![Alt Text](https://github.com/danielhong3/comparing-baltimore-nashville-child-staying-rate-and-income/blob/master/NashvilleStayEmployment.JPG)
+Here's a Baltimore one with the same parameters for comparison
 ![Alt Text](https://github.com/danielhong3/comparing-baltimore-nashville-child-staying-rate-and-income/blob/master/BaltimoreStayEmployment.JPG)
